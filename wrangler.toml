@@ -1,11 +1,11 @@
 type = "webpack"
-account_id = "6149cdb975d03c73edb1ba984159e74d"
-zone_id = "2ff6392051f54a50c21ef3a8929f807d"
+account_id = "1b47c0ee9640c245ba237fa508e0178b"
+zone_id = "35a008a1d397befed2cf27cf2255433a"
 name = "ipv6-tools"
 
 [env.staging]
 name = "ipv6-tools-staging"
-route = "staging.ipv6.tools/*"
+route = "staging-tools.as211562.net/*"
 
 [env.production]
-route = "ipv6.tools/*"
+route = "tools.as211562.net/*"
